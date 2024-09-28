@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @diegopresall
+- 👀 I’m interested in technology 
+- 🌱 I’m currently learning Computer engineering 
